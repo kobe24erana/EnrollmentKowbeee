@@ -1,0 +1,13 @@
+C:\Users\PC\OneDrive\Desktop\New folder\EnrollmentKobe-main\Enrollment System\bin\x64\Debug\Enrollment System.exe.config
+C:\Users\PC\OneDrive\Desktop\New folder\EnrollmentKobe-main\Enrollment System\bin\x64\Debug\Enrollment System.exe
+C:\Users\PC\OneDrive\Desktop\New folder\EnrollmentKobe-main\Enrollment System\bin\x64\Debug\Enrollment System.pdb
+C:\Users\PC\OneDrive\Desktop\New folder\EnrollmentKobe-main\Enrollment System\obj\x64\Debug\Enrollment System.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\New folder\EnrollmentKobe-main\Enrollment System\obj\x64\Debug\Enrollment_System.Form1.resources
+C:\Users\PC\OneDrive\Desktop\New folder\EnrollmentKobe-main\Enrollment System\obj\x64\Debug\Enrollment_System.MainForm.resources
+C:\Users\PC\OneDrive\Desktop\New folder\EnrollmentKobe-main\Enrollment System\obj\x64\Debug\Enrollment_System.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\New folder\EnrollmentKobe-main\Enrollment System\obj\x64\Debug\Enrollment_System.StudentEnrollmentEntry.resources
+C:\Users\PC\OneDrive\Desktop\New folder\EnrollmentKobe-main\Enrollment System\obj\x64\Debug\Enrollment_System.SubjectScheduleEntry.resources
+C:\Users\PC\OneDrive\Desktop\New folder\EnrollmentKobe-main\Enrollment System\obj\x64\Debug\Enrollment System.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\New folder\EnrollmentKobe-main\Enrollment System\obj\x64\Debug\Enrollment System.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\New folder\EnrollmentKobe-main\Enrollment System\obj\x64\Debug\Enrollment System.exe
+C:\Users\PC\OneDrive\Desktop\New folder\EnrollmentKobe-main\Enrollment System\obj\x64\Debug\Enrollment System.pdb

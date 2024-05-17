@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enrollment System", "Enrollment System\Enrollment System.csproj", "{F9C94D42-CF1A-4B4E-A8A7-1AACAE946269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C94D42-CF1A-4B4E-A8A7-1AACAE946269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C94D42-CF1A-4B4E-A8A7-1AACAE946269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C94D42-CF1A-4B4E-A8A7-1AACAE946269}.Debug|x64.ActiveCfg = Debug|x64
+		{F9C94D42-CF1A-4B4E-A8A7-1AACAE946269}.Debug|x64.Build.0 = Debug|x64
+		{F9C94D42-CF1A-4B4E-A8A7-1AACAE946269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C94D42-CF1A-4B4E-A8A7-1AACAE946269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C94D42-CF1A-4B4E-A8A7-1AACAE946269}.Release|x64.ActiveCfg = Release|x64
+		{F9C94D42-CF1A-4B4E-A8A7-1AACAE946269}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC1E7E5F-6C03-4995-A9BE-D733669215C2}
+	EndGlobalSection
+EndGlobal
